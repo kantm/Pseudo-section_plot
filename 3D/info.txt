@@ -1,0 +1,6 @@
+1. A plot of electrical measurements or calculations, often of apparent resistivity or induced polarization as a function of position and electrode separation (which is nonlinearly related to the depth of investigation
+
+A pseudosection indicates how the parameter varies with location and depth, but it can only be converted into a 2D model by inversion. Also called a quasi-section or pseudodepth section
+
+For the dipole-dipole electrode configuration, the data are plotted (Figure P-17) beneath the midpoint between the dipoles at a depth of half the distance between the dipole centers.
+
